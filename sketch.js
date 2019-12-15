@@ -1,5 +1,5 @@
 function preload() {
-  table = loadTable("flights.csv","csv","header");
+
 }
 
 function setup() {
